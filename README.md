@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asmaa</h1>
 <h3 align="center">A professional frontend web developer from Egypt</h3>
-<img align = "right" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" >
+<img align = "right" width="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" >
 
 - 🧑🏼‍💻 Skilled at **HTML5, CSS3, Bootstrap, JavaScript, React, Next.js, Redux, Nodejs**
 
