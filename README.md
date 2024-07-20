@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning **WordPress && PHP && Figma design**
 
-- 📫 How to reach me **asmaasaeed2082003@gmail.com**
-
 - ⚡ Fun fact **If it were easy, everybody would do it👀🏆**
 
-<h3 align="left"></h3>
+<h3 align="left">Connect With Me: asmaasaeed2082003@gmail.com</h3>
 <p align="left">
 </p>
 
