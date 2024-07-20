@@ -5,7 +5,7 @@
 - 🧑🏼‍💻 Skilled at **HTML5, CSS3, Bootstrap, JavaScript, React, Next.js, Redux, Nodejs**
 
 - 🌱 I’m currently learning **WordPress && PHP && Figma design**
--    How you can reach me: **asmaasaeed2082003@gmail.com**
+- 🏆 How you can contact me: **asmaasaeed2082003@gmail.com**
 - ⚡ Fun fact **If it were easy, everybody would do it👀🏆**
 
 <h3 align="left"></h3>
