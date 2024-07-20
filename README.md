@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **If it were easy, everybody would do it👀🏆**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
