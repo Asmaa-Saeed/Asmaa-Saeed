@@ -2,7 +2,7 @@
 <h3 align="center">A professional frontend web developer from Egypt</h3>
 <img align = "right" width="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" >
 
-- 🧑🏼‍💻 Skilled at **HTML5, CSS3, Bootstrap, JavaScript, React, Next.js, Redux, Nodejs**
+- 🧑🏼‍💻 Skilled at **HTML5, CSS3, SASS, Bootstrap, Tailwind css, JavaScript, React, Next.js, Redux, Nodejs**
 
 - 🌱 I’m currently learning **WordPress && PHP && Figma design**
 - 🏆 How you can contact me: **asmaasaeed2082003@gmail.com**
