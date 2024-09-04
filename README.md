@@ -5,7 +5,9 @@
 - 🧑🏼‍💻 Skilled at **HTML5, CSS3, SASS, Bootstrap, Tailwind css, JavaScript, React, Next.js, Redux, Nodejs**
 
 - 🌱 I’m currently learning **WordPress && PHP && Figma design**
-- 🏆 How you can contact me: **asmaasaeed2082003@gmail.com**
+- 🧑🏼‍💻 All of my projects are available at <a href = "https://github.com/Asmaa-Saeed?tab=repositories">My Repo</a>
+- 🏆 My Website for 50 JavaScript Project <a href = "https://elzero.org/asmaa-saeed/">JavaScript</a>  
+- ⚡ How you can contact me: **asmaasaeed2082003@gmail.com**
 - ⚡ Fun fact **If it were easy, everybody would do it👀🏆**
 
 <h3 align="left"></h3>
