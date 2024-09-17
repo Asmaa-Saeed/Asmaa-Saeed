@@ -9,7 +9,7 @@
 <br/>
 
 
-<img align = "right" width="300" src=""C:\Users\a\Downloads\mygithub.png"" >
+<img align = "right" width="300" src="C:\Users\a\Downloads\mygithub.png" >
 <div align="left">
 
   🧑🏼‍💻 All of my projects are available at <a href = "https://github.com/Asmaa-Saeed?tab=repositories">My Repo</a>
