@@ -9,7 +9,7 @@
 <br/>
 
 
-<img align = "right" width="300" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif" >
+<img align = "right" width="300" src="https://pngtree.com/freepng/hand-drawn-illustrations-of-programmer-girls-who-resume-work-and-resume-production_5771651.html" >
 <div align="left">
 
   🧑🏼‍💻 All of my projects are available at <a href = "https://github.com/Asmaa-Saeed?tab=repositories">My Repo</a>
