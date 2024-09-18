@@ -16,7 +16,7 @@
  
  🏆 My Website for 50 JavaScript Project <a href = "https://elzero.org/asmaa-saeed/">JavaScript</a> 
  
- 🔭 I’m currently working on **student at assuit university**
+ 🔭 I’m a **Business Information System (BIS)** student.
  
  🌱 I’m currently learning **Figma, Php, WordPress**
 
