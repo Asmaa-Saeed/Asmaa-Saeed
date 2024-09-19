@@ -18,9 +18,9 @@
  
  🔭 I’m a **Business Information System (BIS)** student.
  
- 🌱 I’m currently learning **Figma, Php, WordPress**
+ 🌱 I’m currently learning ** React, Next.js, Redux,**
 
-💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Tailwind css, JavaScript, React, Next.js, Redux, Nodejs..**
+💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Tailwind css, JavaScript, Nodejs..**
 
 ⚡ Fun fact **If it were easy, everybody would do it👀🏆**
 
