@@ -8,8 +8,8 @@
 
 <br/>
 
+<img  align = "right" width="300" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-<img align = "right" width="300" src="C:\Users\a\Downloads\mygithub.png" >
 <div align="left">
 
   🧑🏼‍💻 All of my projects are available at <a href = "https://github.com/Asmaa-Saeed?tab=repositories">My Repo</a>
