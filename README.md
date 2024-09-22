@@ -8,7 +8,7 @@
 
 <br/>
 
-<img  align = "right" width="200" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img  align = "right" width="250" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 <div align="left">
 
@@ -20,7 +20,7 @@
  
  🌱 I’m currently learning ** React, Next.js, Redux,**
 
-💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Tailwind css, JavaScript, Nodejs..**
+💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Tailwind css, JavaScript, TypeScript, Nodejs..**
 
 ⚡ Fun fact **If it were easy, everybody would do it👀🏆**
 
