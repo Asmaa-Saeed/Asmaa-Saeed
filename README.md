@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asmaa+Saeed!;" />
 </h1>
 
-<h3 align="center" font="bold">A Passionate Frontend Developer From Egypt</h3>
+<h3 align="center" color="green" font="bold">A Passionate Frontend Developer From Egypt</h3>
 
 <br/>
 
@@ -18,16 +18,15 @@
  
  🔭 I’m a **Business Information System (BIS)** student.
  
- 🌱 I’m currently learning ** React, Next.js, Redux,**
+ 🌱 I’m currently learning **React, Next.js, Redux**
 
 💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Tailwind css, JavaScript, TypeScript, Nodejs..**
 
 ⚡ Fun fact **If it were easy, everybody would do it👀🏆**
 
  </div>
- 
-<div align="left"> 
-    <h3 align="left">Connect with me:</h3>
+     <h3 align="left">Connect with me:</h3>
+<div align="center"> 
   <a href="mailto:asmaasaeed2082003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
