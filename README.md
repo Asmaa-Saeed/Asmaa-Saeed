@@ -20,7 +20,7 @@
  
  🌱 I’m currently learning **React, Next.js, Redux**
 
-💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Tailwind css, JavaScript, TypeScript, Nodejs..**
+💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Tailwind css, JavaScript, TypeScript, Nodejs, Express, MongoDB..**
 
 ⚡ Fun fact **If it were easy, everybody would do it👀🏆**
 
