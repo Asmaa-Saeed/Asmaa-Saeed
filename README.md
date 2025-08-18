@@ -12,15 +12,13 @@
 
 <div align="left">
 
-  🧑🏼‍💻 All of my projects are available at <a href = "https://github.com/Asmaa-Saeed?tab=repositories">My Repo</a>
+  🧑🏼‍💻 All of my projects are available at <a href = "https://github.com/Asmaa-Saeed?tab=repositories">My Repo</a> 
  
- 🏆 My Website for 50 JavaScript Project <a href = "https://elzero.org/asmaa-saeed/">JavaScript</a> 
+ 🔭 I’m a Graduated From **Business Information System (BIS)** .
  
- 🔭 I’m a **Business Information System (BIS)** student.
- 
- 🌱 I’m currently learning **React, Next.js, Redux**
+ 🌱 I’m currently learning **Backend Technologies Like Node Js, MongoDB, Express**
 
-💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Tailwind css, JavaScript, TypeScript, Nodejs, Express, MongoDB..**
+💬 Ask me about **HTML5, CSS3, SASS, Bootstrap, Tailwind css, JavaScript, TypeScript, React, Redux, Nextjs, Nodejs, Express, MongoDB..**
 
 ⚡ Fun fact **If it were easy, everybody would do it👀🏆**
 
