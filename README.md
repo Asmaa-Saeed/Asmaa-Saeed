@@ -17,11 +17,11 @@
 <br/>
 
 <p align='center'>
-<img  align = "right" width="260" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<!-- <img  align = "right" width="260" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/> -->
+<!-- <img  align = "right" width="260" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p> -->
+<img  align = "right" width="230" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 <!--h1 without bottom border-->
-<h2>👩‍💻 About Me</h2>
+
 
 <div align="left">
         
@@ -42,7 +42,7 @@
 <!--Intro end-->
 
 <!--h1 without bottom border-->
-<h2> Skills & Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills & Tools: </h2>
 <a href="https://www.java.com" target="_blank"> 
 <!--tech stack icons-->
 <div align="center">
@@ -207,16 +207,20 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <table>
+    <tr>
+      <td><h1>⚡️Stay awesome!⚡️</h1></td>
+      <td><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" alt="Awesome Gif" /></td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 
 
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--horizontal divider(gradiant)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
 ----------------------------------------------------------------------
 
