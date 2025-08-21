@@ -1,4 +1,5 @@
 
+
 <!--horizontal divider(gradiant)-->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
@@ -15,10 +16,7 @@
 
 <br/>
 
-<img  align = "right" width="250" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-
-
-
+<img  align = "right" width="260" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 <!--h1 without bottom border-->
 <h2>👩‍💻 About Me</h2>
@@ -187,6 +185,7 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 
