@@ -17,94 +17,181 @@
 
 <img  align = "right" width="250" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-<div align="left">
 
+
+
+<!--h1 without bottom border-->
+<h2>👩‍💻 About Me</h2>
+
+<div align="left">
+        
 <!--Intro start-->
 - 🔭  I'm currently working as a Freelance Software Engineer 💻 | Frontend Web Developer 
 
 - 🌱 I’m Graduated from faculty of **Business Information System (BIS)**
 
-- ☁️ I've keen interest in Web Development. So,I'm learning **Node js & Mongo DB**
+- ☁️ I've keen interest in Web Development.
 
-- 📫 Feel free to reach me out **asmaasaeed.dev@gmail.com**
+- 📫 Feel free to reach me out
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asmaasaeed.dev@gmail.com" target="_blank" rel="noopener">
+    <b>My Gmail</b>
+  </a>
+  
+- 👯 I’m looking to collaborate on Frontend software engineering projects
 
 <!--Intro end-->
 
+<!--h1 without bottom border-->
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href="https://www.java.com" target="_blank"> 
+<!--tech stack icons-->
+<div align="center">
 
+   <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noopener">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </a>
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noopener">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
+  </a>
+
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank" rel="noopener">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000">
+  </a>
+
+ <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank" rel="noopener">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  </a>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
+   <!-- Redux -->
+  <a href="https://redux.js.org/" target="_blank" rel="noopener">
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+  </a>
 
-<td width="50%" align="center">
+  <!-- RESTful API -->
+  <a href="https://restfulapi.net/" target="_blank" rel="noopener">
+    <img alt="RESTful API" src="https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=api&logoColor=white">
+  </a>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a>
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  </a>
+
+  <!-- SCSS / Sass -->
+  <a href="https://sass-lang.com/" target="_blank" rel="noopener">
+    <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  </a>
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" rel="noopener">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  </a>
+
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+
+  <!-- Express -->
+  <a href="https://expressjs.com/" target="_blank" rel="noopener">
+    <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  </a>
+</br>
+  <!-- Prisma -->
+<a href="https://www.prisma.io/" target="_blank" rel="noopener">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+</a>
+
+<!-- Neon -->
+<a href="https://neon.tech/" target="_blank" rel="noopener">
+  <img alt="Neon" src="https://img.shields.io/badge/Neon-0085FF?style=for-the-badge&logo=neon&logoColor=white">
+</a>
+
+<!-- Clerk -->
+<a href="https://clerk.com/" target="_blank" rel="noopener">
+  <img alt="Clerk" src="https://img.shields.io/badge/Clerk-5A67D8?style=for-the-badge&logo=clerk&logoColor=white">
+</a>
+
 </div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
-</p>
+<h2> Tools <img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=ecf05e47k0ok8h4c9z1jht5w2zokuzgf8qg5utqih7vwhz6y&rid=giphy.gif" width="32px"> </h2>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+<!-- Example tools -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</a>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
+<!-- Cursor -->
+<a href="https://cursor.sh/" target="_blank" rel="noopener">
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
+</a>
+
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noopener">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noopener">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noopener">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.figma.com/" target="_blank" rel="noopener">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</a>
 
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
