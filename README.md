@@ -204,6 +204,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaa-Saeed&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Asmaa-Saeed's Top Languages" />
 </p>
+<h3>⚡ Recent GitHub Activity</h3>
+
+----
+[![Asmaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gayatri192005&bg_color=050505&color=ff0000&line=ff0000&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
