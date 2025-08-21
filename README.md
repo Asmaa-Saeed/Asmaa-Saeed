@@ -10,10 +10,10 @@
 </div>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" 
-       alt="snake" />
-</div>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
 
 
 
