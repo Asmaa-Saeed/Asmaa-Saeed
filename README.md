@@ -186,9 +186,23 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Asmaa-Saeed's Stats](https://github-readme-stats.vercel.app/api?username=Asmaa-Saeed&theme=radical&show_icons=true&hide_border=true&count_private=true)
-<span align="center">![Asmaa-Saeed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaa-Saeed&theme=radical&show_icons=true&hide_border=false&layout=compact)</span>
-![Asmaa-Saeed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asmaa-Saeed&theme=radical&hide_border=true)
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Asmaa-Saeed&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Asmaa-Saeed's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asmaa-Saeed&theme=radical&hide_border=true" alt="Asmaa-Saeed's Streak" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaa-Saeed&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Asmaa-Saeed's Top Languages" />
+</p>
+
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
