@@ -46,6 +46,8 @@
 <a href="https://www.java.com" target="_blank"> 
 <!--tech stack icons-->
 <div align="center">
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
    <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noopener">
@@ -189,6 +191,8 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
+
 
 
 <!--horizontal divider(gradiant)-->
