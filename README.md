@@ -213,16 +213,16 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <table>
-    <tr>
-      <td><h1>⚡️Stay awesome!⚡️</h1></td>
-      <td><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" alt="Awesome Gif" /></td>
-    </tr>
-  </table>
+<div align="center" style="flex">
+      <h1>⚡️Stay awesome!⚡️</h1>
+<!--       <td><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" alt="Awesome Gif" /></td> -->
 </div>
 
-
+<p align="center">
+  <a href="https://github.com/Asmaa-Saeed">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color=FF0000" alt="Typing SVG" />
+  </a>
+</p>
 
 
 <!--horizontal divider(gradiant)
