@@ -42,7 +42,7 @@
 <!--Intro end-->
 
 <!--h1 without bottom border-->
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills & Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://www.java.com" target="_blank"> 
 <!--tech stack icons-->
 <div align="center">
@@ -126,7 +126,7 @@
   <a href="https://expressjs.com/" target="_blank" rel="noopener">
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
   </a>
-</br>
+  
   <!-- Prisma -->
 <a href="https://www.prisma.io/" target="_blank" rel="noopener">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
@@ -142,14 +142,6 @@
   <img alt="Clerk" src="https://img.shields.io/badge/Clerk-5A67D8?style=for-the-badge&logo=clerk&logoColor=white">
 </a>
 
-</div>
-
-
-<!--h1 without bottom border-->
-<h2> Tools <img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=ecf05e47k0ok8h4c9z1jht5w2zokuzgf8qg5utqih7vwhz6y&rid=giphy.gif" width="32px"> </h2>
-
-
-<!-- Example tools -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </a>
@@ -164,31 +156,33 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noopener">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</a>
-
-<a href="https://github.com/" target="_blank" rel="noopener">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 <a href="https://www.figma.com/" target="_blank" rel="noopener">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
 
+</div>
 
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</a>
+<!-- Connect with me Section -->
+<h2> Connect with me <img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=ecf05e47k0ok8h4c9z1jht5w2zokuzgf8qg5utqih7vwhz6y&rid=giphy.gif" width="32px"></h2>
+
+<p align="center">
+  <a href="mailto:asmaasaeed.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/asmaa-saeed-%E2%9C%AA-20a5a8274/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!--   </a>
+   <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a> -->
+ 
+</p>
+
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-
 
 
 
@@ -200,6 +194,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
 
-Last Edited on: 29/4/2023
