@@ -46,10 +46,10 @@
 <a href="https://www.java.com" target="_blank"> 
 <!--tech stack icons-->
 <div align="center">
-<p align='center'>
+<!-- <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-   <!-- Git -->
+   <!-- Git --> -->
   <a href="https://git-scm.com/" target="_blank" rel="noopener">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </a>
@@ -166,7 +166,7 @@
 </div>
 
 <!-- Connect with me Section -->
-<h2> Connect with me <img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=ecf05e47k0ok8h4c9z1jht5w2zokuzgf8qg5utqih7vwhz6y&rid=giphy.gif" width="32px"></h2>
+<!--<h2> Connect with me <img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=ecf05e47k0ok8h4c9z1jht5w2zokuzgf8qg5utqih7vwhz6y&rid=giphy.gif" width="32px"></h2>
 
 <p align="center">
   <a href="mailto:asmaasaeed.dev@gmail.com" target="_blank">
@@ -174,6 +174,8 @@
   </a>
   <a href="https://www.linkedin.com/in/asmaa-saeed-%E2%9C%AA-20a5a8274/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+-->
+      
 <!--   </a>
    <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
