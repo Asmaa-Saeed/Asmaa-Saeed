@@ -188,6 +188,9 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h3>📊GitHub Stats :</h3>
+
+----
 <p align="center">
   <table>
     <tr>
@@ -210,19 +213,49 @@
 
 [![Asmaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asmaa-Saeed&bg_color=141321&color=ff6e96&line=f6c32c&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+<h3>🏆GitHub Trophies</h3> 
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Asmaa-Saeed&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Asmaa-Saeed&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center" style="flex">
-      <h1>⚡️Stay awesome!⚡️</h1>
-<!--       <td><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" alt="Awesome Gif" /></td> -->
-</div>
+
+    
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&text=%E2%9A%A1%EF%B8%8FStay%20awesome!%E2%9A%A1%EF%B8%8F&fontSize=60&fontColor=00FFFF"
+    alt="Stay awesome!"
+  />
+</p>
 
 <p align="center">
   <a href="https://github.com/Asmaa-Saeed">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color=FF0000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=200&color=FF6E96,FF6E96&width=600&lines=Thanks+for+Visiting!!&center=true&repeat=true" alt="Typing SVG" />
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200">
+
+ <!--<td><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" alt="Awesome Gif" /></td> 
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200">
+-->
+
+
+
+
+
+
+
 
 
 <!--horizontal divider(gradiant)
