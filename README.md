@@ -230,7 +230,7 @@
     
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&text=%E2%9A%A1%EF%B8%8FStay%20awesome!%E2%9A%A1%EF%B8%8F&fontSize=60&fontColor=00FFFF"
+    src="https://capsule-render.vercel.app/api?type=transparent&text=%E2%9A%A1%EF%B8%8FStay%20awesome!%E2%9A%A1%EF%B8%8F&fontSize=60&fontColor=FF6E96"
     alt="Stay awesome!"
   />
 </p>
@@ -241,10 +241,10 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200">
 
  <!--<td><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" alt="Awesome Gif" /></td> 
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200">
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1200">
