@@ -207,14 +207,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaa-Saeed&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Asmaa-Saeed's Top Languages" />
 </p>
-<h3>⚡ Recent GitHub Activity</h3>
+<h3>⚡ Recent GitHub Activity:</h3>
 
 ----
 
 [![Asmaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asmaa-Saeed&bg_color=141321&color=ff6e96&line=f6c32c&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<h3>🏆GitHub Trophies</h3> 
+<h3>🏆GitHub Trophies:</h3> 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Asmaa-Saeed&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
