@@ -12,7 +12,7 @@
 <!--horizontal divider(gradiant)-->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
-<h3 align="center" style="color:MediumSeaGreen;" font="bold">A Passionate Frontend Developer From Egypt</h3>
+<h3 align="center" style="color:MediumSeaGreen;" font="bold">A Passionate Frontend Developer & AI Automation Expert</h3>
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 - 🌱 I’m Graduated from faculty of **Business Information System (BIS)**
 
-- ☁️ I've keen interest in Web Development.
+- ☁️ I've keen interest in Web Development & AI Agentic Engineering and automation.
 
 - 📫 Feel free to reach me out
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asmaasaeed.dev@gmail.com" target="_blank" rel="noopener">
