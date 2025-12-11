@@ -26,7 +26,7 @@
 <div align="left">
         
 <!--Intro start-->
-- 🔭  I'm currently working as a Freelance Software Engineer 💻 | Frontend Web Developer 
+- 🔭  I'm currently working as a Freelance AI Automation Engineer 💻
 
 - 🌱 I’m Graduated from faculty of **Business Information System (BIS)**
 
@@ -36,8 +36,9 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asmaasaeed.dev@gmail.com" target="_blank" rel="noopener">
     <b>My Gmail</b>
   </a>
+
   
-- 👯 I’m looking to collaborate on Frontend software engineering projects
+- 👯 I’m looking to collaborate on AI Automation projects
 
 <!--Intro end-->
 
