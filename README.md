@@ -36,6 +36,10 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asmaasaeed.dev@gmail.com" target="_blank" rel="noopener">
     <b>My Gmail</b>
   </a>
+- 🔭 My 
+  <a href="https://asmaa-saeed1.vercel.app/" target="_blank" rel="noopener">
+    <b>Portfolio Website</b>
+  </a>
 
   
 - 👯 I’m looking to collaborate on AI Automation projects
