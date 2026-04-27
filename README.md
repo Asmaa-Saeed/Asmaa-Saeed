@@ -12,7 +12,7 @@
 <!--horizontal divider(gradiant)-->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
-<h3 align="center" style="color:MediumSeaGreen;" font="bold">A Passionate Frontend Developer & AI Automation Expert</h3>
+<h3 align="center" style="color:MediumSeaGreen;" font="bold">A Passionate AI Agents Expert</h3>
 
 <br/>
 
@@ -26,7 +26,7 @@
 <div align="left">
         
 <!--Intro start-->
-- 🔭  I'm currently working as a Freelance AI Automation Engineer 💻
+- 🔭  I'm currently working as AI Engineer at Aatene 💻
 
 - 🌱 I’m Graduated from faculty of **Business Information System (BIS)**
 
@@ -42,7 +42,7 @@
   </a>
 
   
-- 👯 I’m looking to collaborate on AI Automation projects
+- 👯 I’m looking to collaborate on AI Agentic projects
 
 <!--Intro end-->
 
