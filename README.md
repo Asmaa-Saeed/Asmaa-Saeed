@@ -59,18 +59,16 @@
 
 <!-- AI & Automation -->
 
+ <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
+  </a>
 
-<a href="https://platform.openai.com/" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <!-- Python -->
+<a href="https://www.python.org/" target="_blank" rel="noopener">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
-<a href="#" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Automation-00C853?style=for-the-badge">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Webhooks" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Webhooks-FF3D00?style=for-the-badge">
-</a>
 
 <a href="#" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge">
@@ -105,16 +103,19 @@
 <a href="https://crewai.com/" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/CrewAI-FF6F61?style=for-the-badge">
 </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
-  </a>
 
-  <!-- Python -->
-<a href="https://www.python.org/" target="_blank" rel="noopener">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<a href="https://platform.openai.com/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white">
 </a>
-  
+
+<a href="#" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Automation-00C853?style=for-the-badge">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Webhooks" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Webhooks-FF3D00?style=for-the-badge">
+</a>
+ 
   
    <!-- Git --> -->
   <a href="https://git-scm.com/" target="_blank" rel="noopener">
