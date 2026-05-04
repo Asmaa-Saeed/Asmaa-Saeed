@@ -12,7 +12,7 @@
 <!--horizontal divider(gradiant)-->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
-<h3 align="center" style="color:MediumSeaGreen;" font="bold">A Passionate AI Agents Expert</h3>
+<h3 align="center" style="color:MediumSeaGreen;" font="bold">ِAI Agents Engineer</h3>
 
 <br/>
 
@@ -26,7 +26,9 @@
 <div align="left">
         
 <!--Intro start-->
-- 🔭  I'm currently working as AI Engineer at Aatene 💻
+- 🔭  I'm currently working as AI Engineer at **Aatene** 💻
+
+- 🌍  I'm Helping businesses scale using **AI solutions**
 
 - 🌱 I’m Graduated from faculty of **Business Information System (BIS)**
 
@@ -54,6 +56,66 @@
 <!-- <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
+
+<!-- AI & Automation -->
+
+
+<a href="https://platform.openai.com/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white">
+</a>
+
+<a href="#" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Automation-00C853?style=for-the-badge">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Webhooks" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Webhooks-FF3D00?style=for-the-badge">
+</a>
+
+<a href="#" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge">
+</a>
+
+<a href="#" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge">
+</a>
+
+<a href="#" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/AI_Bots-1E88E5?style=for-the-badge">
+</a>
+
+<a href="#" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/RAG_Systems-0097A7?style=for-the-badge">
+</a>
+<a href="https://n8n.io/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge">
+</a>
+
+<a href="https://zapier.com/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white">
+</a>
+
+<a href="https://www.make.com/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Make_(Integromat)-5A67D8?style=for-the-badge">
+</a>
+<a href="https://www.langchain.com/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge">
+</a>
+
+<a href="https://crewai.com/" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/CrewAI-FF6F61?style=for-the-badge">
+</a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
+  </a>
+
+  <!-- Python -->
+<a href="https://www.python.org/" target="_blank" rel="noopener">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+  
+  
    <!-- Git --> -->
   <a href="https://git-scm.com/" target="_blank" rel="noopener">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -63,91 +125,12 @@
   <a href="https://github.com/" target="_blank" rel="noopener">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
-  </a>
-
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
-
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank" rel="noopener">
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000">
-  </a>
-
- <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noopener">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  </a>
   
-   <!-- Redux -->
-  <a href="https://redux.js.org/" target="_blank" rel="noopener">
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  </a>
-
   <!-- RESTful API -->
   <a href="https://restfulapi.net/" target="_blank" rel="noopener">
     <img alt="RESTful API" src="https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=api&logoColor=white">
   </a>
 
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  </a>
-
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener">
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  </a>
-
-  <!-- SCSS / Sass -->
-  <a href="https://sass-lang.com/" target="_blank" rel="noopener">
-    <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  </a>
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noopener">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  </a>
-
-  <!-- Express -->
-  <a href="https://expressjs.com/" target="_blank" rel="noopener">
-    <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
-  </a>
-  
-  <!-- Prisma -->
-<a href="https://www.prisma.io/" target="_blank" rel="noopener">
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
-</a>
-
-<!-- Neon -->
-<a href="https://neon.tech/" target="_blank" rel="noopener">
-  <img alt="Neon" src="https://img.shields.io/badge/Neon-0085FF?style=for-the-badge&logo=neon&logoColor=white">
-</a>
-
-<!-- Clerk -->
-<a href="https://clerk.com/" target="_blank" rel="noopener">
-  <img alt="Clerk" src="https://img.shields.io/badge/Clerk-5A67D8?style=for-the-badge&logo=clerk&logoColor=white">
-</a>
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
