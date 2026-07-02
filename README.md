@@ -32,7 +32,7 @@
 
 - 🌱 I’m Graduated from faculty of **Business Information System (BIS)**
 
-- ☁️ I've keen interest in Web Development & AI Agentic Engineering and automation.
+- ☁️ I've keen interest in Web Development & AI Agentic Engineering and AI Automation.
 
 - 📫 Feel free to reach me out
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asmaasaeed.dev@gmail.com" target="_blank" rel="noopener">
