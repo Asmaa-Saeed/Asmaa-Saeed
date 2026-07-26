@@ -26,7 +26,7 @@
 <div align="left">
         
 <!--Intro start-->
-- 🔭  I'm currently working as AI Engineer at **Aatene** 💻
+- 🔭  I'm currently working as AI ِAutomation and Agents Engineer  💻
 
 - 🌍  I'm Helping businesses scale using **AI solutions**
 
